@@ -6,7 +6,6 @@
 #ifndef ALGORITHM_REMOVEDUPLICATEELEMENT_H
 #define ALGORITHM_REMOVEDUPLICATEELEMENT_H
 
-
 #include <vector>
 #include <iostream>
 
@@ -43,6 +42,5 @@ public:
 
 
 };
-
 
 #endif //ALGORITHM_REMOVEDUPLICATEELEMENT_H

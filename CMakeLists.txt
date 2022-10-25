@@ -3,4 +3,4 @@ project(Algorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algorithm main.cpp day1/RemoveDuplicateElement.h)
+add_executable(Algorithm main.cpp day1/RemoveDuplicateElement.h day2/RotateArray.h)
