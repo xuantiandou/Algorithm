@@ -3,6 +3,8 @@
 
 #include "day1/RemoveDuplicateElement.h"
 #include "day2/RotateArray.h"
+#include "day3/DulplicateElement.h"
+
 int main() {
 
     //day 1 2022/10/24/   移除递增数组中的重复元素
@@ -12,8 +14,13 @@ int main() {
 
     //day2 2022/10/25  旋转一维数组
 //    RotateArray::rotateArray();
-    RotateArray::rotateArray2();
+//    RotateArray::rotateArray2();
 
+
+//day 3 判断重复元素
+
+    bool ret = DuplicateElement::hasDuplicateElement2();
+    cout << ret << endl;
 
 
     return 0;
