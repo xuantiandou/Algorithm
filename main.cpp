@@ -4,6 +4,8 @@
 #include "day1/RemoveDuplicateElement.h"
 #include "day2/RotateArray.h"
 #include "day3/DulplicateElement.h"
+#include "day4/FindSingleElement.h"
+#include "day5/PlusOne.h"
 
 int main() {
 
@@ -19,9 +21,13 @@ int main() {
 
 //day 3 判断重复元素
 
-    bool ret = DuplicateElement::hasDuplicateElement2();
-    cout << ret << endl;
+//    bool ret = DuplicateElement::hasDuplicateElement2();
+//    cout << ret << endl;
 
+//day 4 查找单一的元素
+//    FindSingleElement::findSingleElement();
+
+    PlusOne::plusOne();
 
     return 0;
 }
