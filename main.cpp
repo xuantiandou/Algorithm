@@ -1,11 +1,7 @@
 #include <iostream>
 
 
-#include "day1/RemoveDuplicateElement.h"
-#include "day2/RotateArray.h"
-#include "day3/DulplicateElement.h"
-#include "day4/FindSingleElement.h"
-#include "day5/PlusOne.h"
+#include "AllDaysHead.h"
 
 int main() {
 
@@ -27,7 +23,10 @@ int main() {
 //day 4 查找单一的元素
 //    FindSingleElement::findSingleElement();
 
-    PlusOne::plusOne();
+//    PlusOne::plusOne();
+
+//day 5 移除0元素
+    RemoveZero::removeZero();
 
     return 0;
 }
