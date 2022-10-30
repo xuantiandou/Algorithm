@@ -25,8 +25,12 @@ int main() {
 
 //    PlusOne::plusOne();
 
-//day 5 移除0元素
-    RemoveZero::removeZero();
+//day 6 移除0元素
+//    RemoveZero::removeZero();
+
+    //day 7 查找相加等于target的两个数
+    FindPlusTarget::findPlusTarget2();
+
 
     return 0;
 }

@@ -10,6 +10,7 @@
 #include "day4/FindSingleElement.h"
 #include "day5/PlusOne.h"
 #include "day6/RemoveZero.h"
+#include "day7/FindPlusTarget.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H
