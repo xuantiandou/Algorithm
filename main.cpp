@@ -29,8 +29,10 @@ int main() {
 //    RemoveZero::removeZero();
 
     //day 7 查找相加等于target的两个数
-    FindPlusTarget::findPlusTarget2();
+//    FindPlusTarget::findPlusTarget2();
 
+    //DAY8 旋转矩阵
+    RotateMatrix::rotateMatrix();
 
     return 0;
 }
