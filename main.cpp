@@ -32,7 +32,10 @@ int main() {
 //    FindPlusTarget::findPlusTarget2();
 
     //DAY8 旋转矩阵
-    RotateMatrix::rotateMatrix();
+//    RotateMatrix::rotateMatrix();
+
+//DAY 9 翻转字符
+    ReverseChar::reverseChar();
 
     return 0;
 }

@@ -13,6 +13,7 @@
 #include "day6/RemoveZero.h"
 #include "day7/FindPlusTarget.h"
 #include "day8/RotateMatrix.h"
+#include "day9/ReverseChar.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H
