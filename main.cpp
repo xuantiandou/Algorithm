@@ -38,7 +38,12 @@ int main() {
 //    ReverseChar::reverseChar();
 
     //day 10 翻转数字
-    ReverseInt::reverseInt();
+//    ReverseInt::reverseInt();
+
+
+//DAY 11  查找第一个没有重复的下表
+    FindFirstNoRepeat::findFirstNoRepeat();
+
 
 
     return 0;

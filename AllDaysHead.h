@@ -15,6 +15,7 @@
 #include "day8/RotateMatrix.h"
 #include "day9/ReverseChar.h"
 #include "day10/ReveseInt.h"
+#include "day11/FindFirstNoRepeat.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H
