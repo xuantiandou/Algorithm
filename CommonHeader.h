@@ -9,6 +9,7 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <iostream>
+#include <string>
 
 #define PRINT(i) cout<<i<<endl;
 using namespace std;

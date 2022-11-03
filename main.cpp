@@ -35,7 +35,11 @@ int main() {
 //    RotateMatrix::rotateMatrix();
 
 //DAY 9 翻转字符
-    ReverseChar::reverseChar();
+//    ReverseChar::reverseChar();
+
+    //day 10 翻转数字
+    ReverseInt::reverseInt();
+
 
     return 0;
 }
