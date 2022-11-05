@@ -16,6 +16,7 @@
 #include "day9/ReverseChar.h"
 #include "day10/ReveseInt.h"
 #include "day11/FindFirstNoRepeat.h"
+#include "day12/Anagram.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H

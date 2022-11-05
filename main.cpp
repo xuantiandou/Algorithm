@@ -42,9 +42,10 @@ int main() {
 
 
 //DAY 11  查找第一个没有重复的下表
-    FindFirstNoRepeat::findFirstNoRepeat();
+//    FindFirstNoRepeat::findFirstNoRepeat();
 
-
+    //DAY 12 判断两个字符串是否互为异位
+    Anagram::isAnagram();
 
     return 0;
 }
