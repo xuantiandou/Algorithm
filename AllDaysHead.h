@@ -17,6 +17,8 @@
 #include "day10/ReveseInt.h"
 #include "day11/FindFirstNoRepeat.h"
 #include "day12/Anagram.h"
+#include "day13/Palindrome.h"
+#include "day14/AtoI.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H

@@ -45,7 +45,12 @@ int main() {
 //    FindFirstNoRepeat::findFirstNoRepeat();
 
     //DAY 12 判断两个字符串是否互为异位
-    Anagram::isAnagram();
+//    Anagram::isAnagram();
+
+//day13 判断回文
+//    Palindrome::isPalindrome1();
+//day14  string转换为Int
+//    AtoI::aToI();
 
     return 0;
 }
