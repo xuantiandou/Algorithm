@@ -52,5 +52,8 @@ int main() {
 //day14  string转换为Int
 //    AtoI::aToI();
 
+
+// day 15 最长公告前缀
+    LongestCommonPrefix::longestCommonPrefix();
     return 0;
 }
