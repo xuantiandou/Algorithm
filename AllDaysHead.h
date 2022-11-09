@@ -20,6 +20,7 @@
 #include "day13/Palindrome.h"
 #include "day14/AtoI.h"
 #include "day15/LongestCommonPrefix.h"
+#include "day16/RemoveNthFromEnd.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H

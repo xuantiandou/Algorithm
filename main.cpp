@@ -54,6 +54,9 @@ int main() {
 
 
 // day 15 最长公告前缀
-    LongestCommonPrefix::longestCommonPrefix();
+//    LongestCommonPrefix::longestCommonPrefix();
+
+//day 16 删除链表的倒数第N个节点
+RemoveNthFromEnd::removeNthFromEnd();
     return 0;
 }

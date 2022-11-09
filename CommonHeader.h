@@ -10,7 +10,6 @@
 #include <unordered_set>
 #include <iostream>
 #include <string>
-
 #define PRINT(i) cout<<i<<endl;
 using namespace std;
 #endif //ALGORITHM_COMMONHEADER_H
