@@ -21,6 +21,7 @@
 #include "day14/AtoI.h"
 #include "day15/LongestCommonPrefix.h"
 #include "day16/RemoveNthFromEnd.h"
+#include "day17/ReverseNode.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H

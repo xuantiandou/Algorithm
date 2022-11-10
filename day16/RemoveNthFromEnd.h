@@ -8,16 +8,7 @@
 
 #include "../CommonHeader.h"
 
-struct ListNode {
-    int val{0};
-    ListNode *next{nullptr};
 
-    ListNode(int val) : val(val) {}
-
-    ListNode(ListNode *next) : next(next) {}
-
-    ListNode(int val, ListNode *next) : val(val), next(next) {}
-};
 
 class RemoveNthFromEnd {
 public:

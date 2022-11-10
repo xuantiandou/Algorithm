@@ -57,6 +57,10 @@ int main() {
 //    LongestCommonPrefix::longestCommonPrefix();
 
 //day 16 删除链表的倒数第N个节点
-RemoveNthFromEnd::removeNthFromEnd();
+//    RemoveNthFromEnd::removeNthFromEnd();
+
+    //day 17 翻转链表
+    ReverseNode::reverseNode();
     return 0;
+
 }
