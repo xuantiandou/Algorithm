@@ -22,6 +22,9 @@
 #include "day15/LongestCommonPrefix.h"
 #include "day16/RemoveNthFromEnd.h"
 #include "day17/ReverseNode.h"
+#include "day18/HuiwenNode.h"
+#include "day19/CircleNode.h"
+#include "day20/TreeDepth.h"
 
 
 #endif //ALGORITHM_ALLDAYSHEAD_H

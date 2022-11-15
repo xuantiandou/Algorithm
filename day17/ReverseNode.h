@@ -1,5 +1,5 @@
 //
-// Created by xiaodou on 2022/11/10.
+// Created by   xiaodou on 2022/11/10.
 //反转单链表
 //
 
@@ -47,4 +47,4 @@ private:
 };
 
 
-#endif //ALGORITHM_REVERSENODE_H
+#endif //ALGORITHM_ REVERSENODE_H

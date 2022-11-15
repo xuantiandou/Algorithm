@@ -60,7 +60,15 @@ int main() {
 //    RemoveNthFromEnd::removeNthFromEnd();
 
     //day 17 翻转链表
-    ReverseNode::reverseNode();
+//    ReverseNode::reverseNode();
+
+//day 18 回文链表
+//    HuiwenNode::isHuiwen();
+
+//day 19
+//CircleNode::isCircleNode();
+//day 20 树的最大深度
+TreeDepth::getTreeDepth();
     return 0;
 
 }
